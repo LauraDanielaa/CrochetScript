@@ -1,6 +1,7 @@
 """This module contains the Compiler class.
 
-Authors: Daniela Cubillos <ldcubillose@udistrital.edu.co>
+Authors:Daniela Cubillos
+        Laura Daniela Munoz Ipus
 """
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import letter 

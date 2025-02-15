@@ -1,6 +1,7 @@
 """This module demonstrates an example of how to use the Compiler.
 
-Authors: Daniela Cubillos <ldcubillose@udistrital.edu.co>
+Authors:Daniela Cubillos
+        Laura Daniela Munoz Ipus
 """
 from compiler import Compiler
 

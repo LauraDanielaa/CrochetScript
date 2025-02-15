@@ -1,6 +1,7 @@
 """This module represents the behavior of a lexical analyzer.
 
-Authors: Daniela Cubillos <ldcubillose@udistrital.edu.co>
+Authors:Daniela Cubillos
+        Laura Daniela Munoz Ipus
 """
 
 import re
